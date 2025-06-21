@@ -37,7 +37,7 @@ This is a personal GitHub portfolio website built using HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-🔗 [Visit My Portfolio](https://baladurgag24.github.io/portfolio-baladurgag24/)
+🔗 [Visit My Portfolio](https://baladurgag24.github.io/my-github-portfolio/)
 
 ---
 

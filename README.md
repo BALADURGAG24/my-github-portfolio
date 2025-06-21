@@ -1,4 +1,4 @@
-# 🌐 Hariharan's GitHub Portfolio
+# 🌐 BALADURGA's GitHub Portfolio
 
 This is a personal GitHub portfolio website built using HTML, CSS, and JavaScript. It dynamically fetches and displays real-time data from my GitHub profile using the GitHub REST API and includes multiple widgets, visual stats, and interactive features.
 
@@ -37,7 +37,7 @@ This is a personal GitHub portfolio website built using HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-🔗 [Visit My Portfolio](https://hariharans24.github.io/portfolio-hariharans24/)
+🔗 [Visit My Portfolio](https://baladurgag24.github.io/portfolio-baladurgag24/)
 
 ---
 
@@ -54,7 +54,7 @@ This is a personal GitHub portfolio website built using HTML, CSS, and JavaScrip
 ## 📁 Project Structure
 
 ```
-portfolio-hariharans24/
+portfolio-baladurgag24/
 ├── index.html        # Main HTML file with embedded CSS and JS
 ├── README.md         # Project overview and documentation
 └── (Optional: assets/)  # Future images, icons, or stylesheets
@@ -66,7 +66,8 @@ portfolio-hariharans24/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HARIHARANS24/portfolio-hariharans24.git
+   git clone https://github.com/BALADURGAG24/my-github-portfolio.git
+   cd my-github-portfolio
    ```
 
 2. **Open `index.html` in a browser**  
@@ -103,6 +104,6 @@ This project is licensed under the **MIT License** - feel free to use, modify, a
 
 ## 👤 Author
 
-**Hariharan S**  
-📬 [LinkedIn](https://linkedin.com/in/hariharan-s24)  
-💼 [GitHub](https://github.com/HARIHARANS24)  
+**Baladurga G**  
+📬 [LinkedIn](https://linkedin.com/in/baladurga-g24)  
+💼 [GitHub](https://github.com/BALADURGAG24)  
